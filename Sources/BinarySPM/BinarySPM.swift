@@ -4,8 +4,15 @@
 
 
 
-class Test {
+public class Test {
     
     
+    public init() {
+        
+    }
+    
+    public func sayHello() {
+        print("Hello, World!")
+    }
 }
 
